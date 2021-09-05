@@ -1,0 +1,92 @@
+.hadear{
+  background-color: rgb(13, 13, 95);
+}
+
+.menu{}
+.menu ul{
+  text-align: right;
+  margin-bottom: 0px;
+}
+.menu ul li{
+  display: inline-block;
+  margin-left: -4px;
+}
+.menu ul li a{
+  color: white;
+  text-decoration: none;
+  padding: 0px 15px;
+  line-height: 70px;
+  transition: .3s;
+  display: block;
+ 
+}
+
+
+
+.menu ul li a:hover{
+  background-color: rgb(57, 57, 92);
+}
+/* baner */
+.banear{
+  background-image: url(intro-bg.jpg);
+  background-position:  center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 220px;
+}
+.banear{
+  color: aliceblue;
+}
+.bottn{
+  background-color: rgb(101, 101, 207);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 7px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+/* teem */
+
+.col-md-4 img{
+  max-width: 137px;
+}
+.teems{
+  background-color: rgb(152, 152, 230);
+}
+
+.col-md-4 button{
+  background-color: rgb(69, 97, 223);
+  padding: 4px 28px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 54px;
+  color: white;
+}
+.col-md-4 h4{
+  font-size: 20px;
+}
+
+.dets {line-height: 21px;}
+.meens{
+  margin-top: 50px;
+}
+
+/* about */
+.name-bar{
+  margin-left: -102px;
+}
+.name-bar h4 {
+  font-size: 17px;
+  color: #7c7474;
+  font-family: none;
+}
+.imagg {
+  margin-top: 7px;
+}
+
+
+/* fotter */
+.fottr h4{
+  font-size: 18px;
+}
